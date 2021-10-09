@@ -1,4 +1,4 @@
-package day06;
+package mehmethoca.day06;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.*;
 import org.openqa.selenium.By;
